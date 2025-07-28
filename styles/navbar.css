@@ -75,5 +75,15 @@ button:hover{
   color: red;
 }
 
+.nav-pentest{
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  padding-left: 22px;
+  margin-right: 18px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
 
 
