@@ -1,3 +1,9 @@
+/* a{
+  text-align: end;
+
+  for nav bar
+} */
+
 
 
 body{
@@ -6,7 +12,7 @@ body{
 }
 
 .navbar{
-background: rgb(194, 176, 176);
+background: rgb(96, 95, 95);
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 padding-right: 15px;
 padding-left: 15px;
@@ -14,6 +20,7 @@ position: sticky;
 position: fixed;
 width: 100vw;
 display: block;
+filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5));
 }
 
 .navdiv{
