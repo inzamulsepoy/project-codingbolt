@@ -1,13 +1,9 @@
-/* .hero-box{
-  color: rgb(251, 248, 248);
-  background-color: rgb(67, 67, 67);
-  height: 200px;
-  width: 400px;
-  margin-left: 100px;
-  margin-top: 100px;
+.hero-section{
+  
+  border: 50px;
+  border-color: white;
+  text-align: right;
+  place-items: right;
+  text-size-adjust: 20px;
+  font-size: 20vw;
 }
-
-.hero-text{
-  padding-top: 15px;
-  padding-left: 15px;
-} */
